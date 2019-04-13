@@ -1,2 +1,2 @@
-# accounts
+# Accounts
 Spring Boot Accounts Microservice
